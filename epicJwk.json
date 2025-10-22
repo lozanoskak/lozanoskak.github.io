@@ -1,16 +1,7 @@
 {
-  "keys": [
-    {
-      "alg": "RS256",
-      "e": "AQAB",
-      "ext": true,
-      "key_ops": [
-        "verify"
-      ],
-      "kty": "RSA",
-      "n": "sS9AyOmJj0jDzDoMRTNwS0iBul5BfIw7s5rqOZJPAba9QuvWEbyZf3zKfzAm0ycK9d_qjCgulS9t8TTzZuYccSAgKiaNMzgy8FICDRQNS3ObuRQ2skpWaamor8uYseke-jDPOvjth-98hv9HibuHAScXB6ARnekhD1ekqTLg6jFmWQ2TjhrpI3fCNWco6y4FlHZ4osruScm-mpqTrCEfRECPOMXCxgcKo2PiSIrL-bArHAQn3CgET1xO6Pphq_f8e732_x8r68bqNw7Q8EqCZuKZFD3tEZwgc8ty7HCHzV5sLGgsu_ZlKCWPKywWHW93Giwp6fC8Hims9_7XAbjJOw",
-      "kid": "epic-non-prod-key",
-      "use": "sig"
-    }
-  ]
+  "kty": "RSA",
+  "alg": "RS256",
+  "kid": "epic-jwks",
+  "n": "uIApsxVGwCWC9VEygC8nwDc2PQMFib-1x_8IHCh8apFEmfwmw2fpaPrsiilkniKE_XxA6ZvyNtC7tQXQuG7yl9X7fEonc29I4T5Nc3ZdF0b0VOWX53h_mxZgZa9Bs27mLxmCsU_JLn08gpkqywNQphhlwbakXa7X052sT-9GjkOiRFLlphMf5JgGhsyJyDQzQHkOMAzcnxbzbZm9k3ZLAHHFp5Q9GBsNWD4CfyLKR-FUq9mttFaYcE-lqIVcWacWWen0ZwgI13A_wnxCOgB3s8yJ7XCZ7wLEmwDFQ2lP2kiK9iWPy7PoWrnRxQ3UGOoVO6nIU9j_N20x_nLGWeToUQ",
+  "e": "AQAB"
 }
